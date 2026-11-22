@@ -6,9 +6,7 @@ The live public site remains at [region7saicenters.org/region7new](https://regio
 
 ## Links
 
-- [Preview (GitHub Pages)](https://lakshmisravyavedantham.github.io/region7-mockup-a/)
-- [Vercel preview](https://region7-mockup-a.vercel.app/)
-- [Repository](https://github.com/LakshmiSravyaVedantham/region7-mockup-a)
+- [Preview (GitHub Pages)](https://region7saicenters.github.io/region7-website/)
 - [Current live site (unchanged)](https://region7saicenters.org/region7new/)
 - [Sri Sathya Sai International Organization](https://www.sathyasai.org/)
 
